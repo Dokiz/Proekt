@@ -1,10 +1,22 @@
 .top-block {
-	color:red;
+	color:black;
     position:relative;
-    width: 150px;	
-	height:450px; 
-	Left:10px;
+    width: 1570px;	
+	height:70px; 
+	Left:5px;
 	top:-3px;
 	font-style:Oblique;
-	border-style:outset;
+	border-style:solid;
+	border-radius:15px;
 	}
+.left-block {
+	color:black;
+    position:relative;
+    width: 1570px;	
+	height:70px; 
+	Left:5px;
+	top:-3px;
+	font-style:Oblique;
+	border-style:solid;
+	border-radius:15px;
+	}	
