@@ -1,7 +1,7 @@
 .top-block {
 	color:black;
     position:relative;
-    width: 1570px;	
+    width: 1560px;	
 	height:70px; 
 	Left:5px;
 	top:-3px;
@@ -11,12 +11,34 @@
 	}
 .left-block {
 	color:black;
-    position:relative;
-    width: 1570px;	
-	height:70px; 
+    position:absolute;
+    width: 350px;	
+	height:500px; 
 	Left:5px;
-	top:-3px;
+	top:100px;
+	font-style:Oblique;
+	border-style:solid;
+	border-radius:15px;
+	}
+.right-block {
+	color:black;
+    position:relative;
+    width: 350px;	
+	height:500px; 
+	Left:910px;
+	top:-450px;
 	font-style:Oblique;
 	border-style:solid;
 	border-radius:15px;
 	}	
+.bottom-block {
+    color:black;
+    position:relative;
+    width: 1560px;	
+	height:70px; 
+	Left:5px;
+	top:120px;
+	font-style:Oblique;
+	border-style:solid;
+	border-radius:15px;
+	}
