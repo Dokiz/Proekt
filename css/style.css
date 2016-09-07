@@ -1,10 +1,10 @@
 .top-block {
 	color:black;
-    position:relative;
-    width: 1560px;	
+    position:absolute;
+    width: 1590px;	
 	height:70px; 
-	Left:5px;
-	top:-3px;
+	Left:3px;
+	top:3px;
 	font-style:Oblique;
 	border-style:solid;
 	border-radius:15px;
@@ -13,31 +13,43 @@
 	color:black;
     position:absolute;
     width: 350px;	
-	height:500px; 
+	height:600px; 
 	Left:5px;
-	top:100px;
+	top:85px;
 	font-style:Oblique;
 	border-style:solid;
 	border-radius:15px;
 	}
 .right-block {
 	color:black;
-    position:relative;
-    width: 350px;	
-	height:500px; 
-	Left:910px;
-	top:-450px;
+    position:absolute;
+    width: 290px;	
+	height:600px; 
+	Left:1300px;
+	top:85px;
 	font-style:Oblique;
 	border-style:solid;
 	border-radius:15px;
-	}	
+	}
+.center-block {
+	color:black;
+    position:absolute;
+    width: 910px;	
+	height:600px; 
+	Left:370px;
+	top:85px;
+	font-style:Oblique;
+	border-style:solid;
+	border-radius:15px;
+	}		
+
 .bottom-block {
     color:black;
-    position:relative;
-    width: 1560px;	
+    position:absolute;
+    width: 1590px;	
 	height:70px; 
-	Left:5px;
-	top:120px;
+	Left:3px;
+	top:700px;
 	font-style:Oblique;
 	border-style:solid;
 	border-radius:15px;
