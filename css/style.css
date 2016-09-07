@@ -1,5 +1,5 @@
 .top-block {
-	color:black;
+	color:blue;
     position:absolute;
     width: 1590px;	
 	height:70px; 
@@ -10,7 +10,7 @@
 	border-radius:15px;
 	}
 .left-block {
-	color:black;
+	color:blue;
     position:absolute;
     width: 350px;	
 	height:600px; 
@@ -21,7 +21,7 @@
 	border-radius:15px;
 	}
 .right-block {
-	color:black;
+	color:blue;
     position:absolute;
     width: 290px;	
 	height:600px; 
@@ -32,7 +32,7 @@
 	border-radius:15px;
 	}
 .center-block {
-	color:black;
+	color:blue;
     position:absolute;
     width: 910px;	
 	height:600px; 
@@ -44,12 +44,12 @@
 	}		
 
 .bottom-block {
-    color:black;
+    color:blue;
     position:absolute;
     width: 1590px;	
-	height:70px; 
+	height:90px; 
 	Left:3px;
-	top:700px;
+	top:695px;
 	font-style:Oblique;
 	border-style:solid;
 	border-radius:15px;
